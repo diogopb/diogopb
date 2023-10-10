@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diogo!
-- 👀 I’m interested in games, football and LOTR :)
+- 👀 I’m interested in tecnology, games, football and LOTR :)
 - 🌱 I’m currently learning HTML, CSS and JS
 - 📫 How to reach me: https://www.linkedin.com/in/diogo-pinto-barbosa-651798247/
 
