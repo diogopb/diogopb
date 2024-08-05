@@ -1,7 +1,11 @@
 ## Olá, eu sou o Diogo! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogopb&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/diogopb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopb&show_icons=true&theme=transparent"
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogopb&show_icons=true&theme=transparent) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
 
 ### Vamos nos conectar? 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pinto-barbosa-651798247/)
