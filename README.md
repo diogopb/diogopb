@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/diogopb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopb&show_icons=true&theme=dark#gh-dark-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=compact&theme=dark#gh-dark-mode-only">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
