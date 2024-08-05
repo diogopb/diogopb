@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/diogopb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopb&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut)](https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopb&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
